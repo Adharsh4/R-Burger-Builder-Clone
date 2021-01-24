@@ -1,0 +1,5 @@
+add Aux.js file in "hoc" folder
+
+const aux = (props) => props.children;
+
+export default aux;
